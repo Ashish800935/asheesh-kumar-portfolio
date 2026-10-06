@@ -82,7 +82,9 @@ export default function Home() {
               </Link>
               <a
                 href={personal.resume}
-                download="Asheesh_Kumar_Resume.pdf"
+                download="Asheesh_Kumar_Resume_.pdf"
+                target="_blank"
+                rel="noreferrer noopener"
                 className="btn-ghost"
               >
                 <Download size={16} /> Download Resume

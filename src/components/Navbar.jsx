@@ -51,7 +51,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <a
             href={personal.resume}
-            download="Asheesh_Kumar_Resume_.pdf"
+            download="Asheesh_Kumar_Resume__.pdf"
             target="_blank"
             rel="noreferrer noopener"
             className="btn-ghost hidden !px-4 !py-2 xl:inline-flex"
@@ -102,7 +102,7 @@ export default function Navbar() {
               ))}
               <a
                 href={personal.resume}
-                download="Asheesh_Kumar_Resume_.pdf"
+                download="Asheesh_Kumar_Resume__.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="btn-ghost mt-2"

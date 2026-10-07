@@ -11,7 +11,7 @@ export const personal = {
   location: 'Ghaziabad, Uttar Pradesh, India',
   availability: 'Open to Opportunities',
   photo: '/my_profile.png',
-  resume: '/Asheesh_Kumar_Resume__.pdf',
+  resume: '/Asheesh_Kumar_Resume_.pdf',
   footerTagline: 'AI/ML • Generative AI • NLP',
 };
 
